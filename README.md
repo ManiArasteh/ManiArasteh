@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MaArasteh
+- 👀 I’m interested in programming and web development
+- 🌱 I’m currently learning Python
+- 🐶 My favorite animation character is Snoopy
