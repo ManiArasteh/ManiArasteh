@@ -9,3 +9,4 @@
 ## My favorite repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maarasteh&repo=beagleeditor)](https://github.com/MaArasteh/beagleeditor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maarasteh&repo=gls)](https://github.com/MaArasteh/gls)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maarasteh&repo=musicline)](https://github.com/MaArasteh/musicline)
