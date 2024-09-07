@@ -10,3 +10,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManiArasteh&repo=beagleeditor)](https://github.com/ManiArasteh/beagleeditor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManiArasteh&repo=gls)](https://github.com/ManiArasteh/gls)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManiArasteh&repo=musicline)](https://github.com/ManiArasteh/musicline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManiArasteh&repo=paytory)](https://github.com/ManiArasteh/paytory)
